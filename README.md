@@ -2,6 +2,8 @@
 
 ![snake gif](https://github.com/zehua0417/zehua0417/blob/output/github-contribution-grid-snake-dark.svg)
 
+<img src="https://komarev.com/ghpvc/?username=zehua0417&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+
 ### languages
 <img src="https://skillicons.dev/icons?i=c,cpp,python,r,bash,perl,md,latex,html,css,javascript,go,rust,java,lua,mysql,redis,mongodb" /><br>
 
