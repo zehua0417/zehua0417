@@ -10,6 +10,14 @@
 ### tools
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,neovim,vim,vscode,visualstudio,anaconda,cmake,pytorch" /><br>
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=zehua0417&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zehua0417&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zehua0417&locale=en&theme=github-dark-blue&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=zehua0417&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
+
 <!--
 **zehua0417/zehua0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
