@@ -2,6 +2,10 @@
 
 ![snake gif](https://github.com/zehua0417/zehua0417/blob/output/github-contribution-grid-snake-dark.svg)
 
+<img src="https://skillicons.dev/icons?i=c,cpp,python,r,bash,perl,md,latex,html,css,javascript,go,rust,java,lua,mysql,redis,mongodb" /><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,neovim,vim,vscode,visualstudio,anaconda,cmake,pytorch" /><br>
+
 <!--
 **zehua0417/zehua0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
