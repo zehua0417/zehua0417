@@ -8,10 +8,14 @@
 </div>
 
 ### languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python,r,bash,perl,md,latex,html,css,javascript,go,rust,java,lua,mysql,redis,mongodb" /><br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,bash,perl,md,latex,html,css,javascript,go,rust,java,lua,mysql,redis,mongodb" /><br>
+</div>
 
 ### tools
+<div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,neovim,vim,vscode,visualstudio,anaconda,cmake,pytorch" /><br>
+</div>
 
 <div align="center">
 
